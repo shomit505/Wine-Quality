@@ -1,5 +1,3 @@
 https://www.weforum.org/stories/2022/06/london-could-feel-as-hot-as-barcelona-by-2050/#:~:text=Climate%20change%20could%20push%20temperatures,heavier%20downpours%20when%20it%20rains.
 
-Global warming is changing local climates faster than we anticipated. 
-Regions traditionally known for their wineries will soon be too hot for this and regions with limited traditions of wine production will suddenly be required to satisfy growing demand. 
-Motivated by this, I am exploring some traditional supervised learning approaches to modelling user wine preferences
+Global warming is altering local climates more rapidly than anticipated. Traditional wine-producing regions may soon become too hot to sustain vineyards, while areas with limited winemaking history will need to adapt to meet rising demand. Motivated by this, I am exploring supervised learning methods to model user wine preferences, aiming to understand and predict how these changes might influence consumer tastes and market trends.
